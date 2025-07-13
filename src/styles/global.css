@@ -186,6 +186,47 @@ figure {
   margin: 0 0 3em 0;
 }
 
+figure.image-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+figure.image-gallery .image-row {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+figure.image-gallery .image-row img {
+  flex: 1;
+  max-width: calc(33.333% - 0.67em);
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+figure.image-gallery figcaption {
+  text-align: center;
+  font-style: italic;
+  color: var(--text-secondary);
+  margin-top: 1em;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+  figure.image-gallery .image-row {
+    flex-direction: column;
+    gap: 0.5em;
+  }
+  
+  figure.image-gallery .image-row img {
+    max-width: 100%;
+  }
+}
+
 table {
   border-collapse: collapse;
   font-family: var(--font-family-sans);

@@ -15,19 +15,28 @@ To give you some insight into how the scam operates, I'll hand over to a current
 
 These groupchats are created for university freshers across the UK and are run by the same company. This company employs 'reps' who are people that pretend to be students in order to peer pressure students into buying tickets.
 
-<!-- ![A screenshot from the Fatsoma website demonstrating the "reps" scheme](__GHOST_URL__/content/images/2024/07/image-1.png) -->
+![A screenshot from the Fatsoma website demonstrating the "reps" scheme](/assets/articles/fatsoma-reps.png)
 
 The [Fatsoma "reps" scheme](https://business.fatsoma.com/ticketing/f/reps), the main incentive for scammers to shill tickets.
 
 They often create multiple groupchats across different social media and kick anyone who speaks against them. The reps are paid to send the link and also get paid when someone buys a ticket from their link. They also message people directly and make smaller groupchats that contain multiple reps who act as freshers 'going' to these events.
 
-<!-- ![](__GHOST_URL__/content/images/2024/07/644193cb-1833-45c6-ab63-9b75edcfd0c3.jpg) -->
-
-<!-- ![](__GHOST_URL__/content/images/2024/07/20d17797-4604-4b77-a543-9a292bce18a9.jpg) -->
-
-<!-- ![](__GHOST_URL__/content/images/2024/07/81e0d7ef-28dd-4e84-b115-33b7bba80ea5.jpg) -->
-
-Examples of the Fatsoma scam in action, in WhatsApp group chats, communities, and DMs.
+<figure class="image-gallery">
+  <div class="image-row">
+    <img
+      src="/assets/articles/scam-1.jpg"
+      alt="A WhatsApp screenshot showing a fake announcement for a St Andrews Freshers Welcome Party.">
+    <img
+      src="/assets/articles/scam-2.jpg"
+      alt="A WhatsApp conversation initiated by a scammer trying to sell a fake &quot;freshers uv party&quot;.">
+    <img
+      src="/assets/articles/scam-3.jpg"
+      alt="A WhatsApp screenshot with &quot;Hanna&quot; trying to sell scam tickets.">
+  </div>
+  <figcaption>
+    Examples of the Fatsoma scam in action, in WhatsApp group chats, communities, and DMs.
+  </figcaption>
+</figure>
 
 ### How do I know what tickets are fake?
 
@@ -39,15 +48,7 @@ Any freshers tickets sold on a website called Fatsoma are fake even if the provi
 
 All events hosted at the student union and 601 will have their tickets advertised on the union website [here](https://www.yourunion.net/events/union/). Any other St Andrews events at places like the Vic and the Rule will have their tickets on Fixr but you can also normally buy at the door. Aura (Dundee club) tickets are on their own website but there's not much reason to go there - more on that later. You do not have to buy tickets in advance, especially since you don't yet know what your friends will be doing as you probably haven't met them yet. Most tickets don't come out until the end of August.
 
-[
-
-Union events
-
-![](https://building.yourunion.net/assets/favicons/apple-touch-icon.png)Brand
-
-![](https://building.yourunion.net/assets/logo/dark.svg)
-
-](https://www.yourunion.net/events/union/)
+[https://www.yourunion.net/events/union/](https://www.yourunion.net/events/union/)
 
 ### What if I have bought a fake ticket?
 
@@ -63,4 +64,4 @@ Then do your own research and you will quickly see that the tickets are indeed a
 
 ---
 
-<!-- As always, stay vigilant, and make sure to check out our [Scam advice for freshers](__GHOST_URL__/scam-advice-for-freshers/) page for advice regarding how to keep yourself - and your finances - safe. -->
+As always, stay vigilant, and make sure to check out our [Scam Advice for Freshers](scam-advice-for-freshers) page for advice regarding how to keep yourself - and your finances - safe.
