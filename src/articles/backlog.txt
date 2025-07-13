@@ -50,145 +50,6 @@ Send me an email
 
 ---
 
-Scam advice for freshers
-
-Learn about common scams targeting new students, how to avoid falling for them, and what you can do to help.
-
-<p>If you're reading this, then it's very likely that you're an offer holder to St Andrews. If so, first off - congratulations! However, you're also a prime target for many scam organisations trying to part you of your money. The prospect of heading off to university and starting a whole new chapter of your life is exciting, but <strong>don't let FOMO cloud your judgement!</strong></p><p>Below is some advice for avoiding getting scammed, especially regarding the <a href="__GHOST_URL__/unmasking-the-fatsoma-scam/" rel="noreferrer">Fatsoma Freshers' Week ticket scam</a>.</p><figure class="kg-card kg-bookmark-card kg-card-hascaption"><a class="kg-bookmark-container" href="__GHOST_URL__/unmasking-the-fatsoma-scam/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Unmasking the Fatsoma scam</div><div class="kg-bookmark-description">A current student at St Andrews gives us some insight into how the common “Fatsoma” Freshers’ Week ticket scam operates.</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="__GHOST_URL__/favicon.ico" alt=""><span class="kg-bookmark-author">St Andrews Space</span><span class="kg-bookmark-publisher">Omar Raza</span></div></div><div class="kg-bookmark-thumbnail"><img src="https://images.unsplash.com/photo-1618590067824-5ba32ca76ce9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fEZha2UlMjB8ZW58MHx8fHwxNzIxMDgxODk4fDA&amp;ixlib=rb-4.0.3&amp;q=80&amp;w=2000" alt=""></div></a><figcaption><p dir="ltr"><span style="white-space: pre-wrap;">For more information on the Fatsoma scam, check out this article written by a current student at St Andrews, and read about their experience with the scam last year.</span></p></figcaption></figure><div class="kg-card kg-toggle-card" data-kg-toggle-state="close">
-            <div class="kg-toggle-heading">
-                <h4 class="kg-toggle-heading-text"><span style="white-space: pre-wrap;">But I already know all of this!</span></h4>
-                <button class="kg-toggle-card-icon" aria-label="Expand toggle to read content">
-                    <svg id="Regular" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                        <path class="cls-1" d="M23.25,7.311,12.53,18.03a.749.749,0,0,1-1.06,0L.75,7.311"></path>
-                    </svg>
-                </button>
-            </div>
-            <div class="kg-toggle-content"><p><span style="white-space: pre-wrap;">If you haven't already, I </span><b><strong style="white-space: pre-wrap;">very strongly</strong></b><span style="white-space: pre-wrap;"> recommend you read this article anyways, </span><i><em class="italic" style="white-space: pre-wrap;">just in case</em></i><span style="white-space: pre-wrap;">.</span></p><p><span style="white-space: pre-wrap;">Don't let your arrogance get the best of you, even if you're normally very scam-aware! The people running many of these scams have been doing so for years across all of Scotland, and they're </span><i><em class="italic" style="white-space: pre-wrap;">quite good at it</em></i><span style="white-space: pre-wrap;">.</span></p><p><span style="white-space: pre-wrap;">This year, I've already witnessed several dozen people fall for a freshers' tickets scam, which was run by the administrators of a WhatsApp community with </span><i><em class="italic" style="white-space: pre-wrap;">over 200 new students</em></i><span style="white-space: pre-wrap;"> in it. It's better to be safe than sorry!</span></p></div>
-        </div><div class="kg-card kg-toggle-card" data-kg-toggle-state="close">
-            <div class="kg-toggle-heading">
-                <h4 class="kg-toggle-heading-text"><span style="white-space: pre-wrap;">Help, I think I've already fallen for a scam!</span></h4>
-                <button class="kg-toggle-card-icon" aria-label="Expand toggle to read content">
-                    <svg id="Regular" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                        <path class="cls-1" d="M23.25,7.311,12.53,18.03a.749.749,0,0,1-1.06,0L.75,7.311"></path>
-                    </svg>
-                </button>
-            </div>
-            <div class="kg-toggle-content"><p><span style="white-space: pre-wrap;">Head </span><a href="#ive-been-scammed" rel="noreferrer"><span style="white-space: pre-wrap;">further down this article</span></a><span style="white-space: pre-wrap;"> for advice on what to do next.</span></p></div>
-        </div><div class="kg-card kg-toggle-card" data-kg-toggle-state="close">
-            <div class="kg-toggle-heading">
-                <h4 class="kg-toggle-heading-text"><span style="white-space: pre-wrap;">What can I do to help combat this?</span></h4>
-                <button class="kg-toggle-card-icon" aria-label="Expand toggle to read content">
-                    <svg id="Regular" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                        <path class="cls-1" d="M23.25,7.311,12.53,18.03a.749.749,0,0,1-1.06,0L.75,7.311"></path>
-                    </svg>
-                </button>
-            </div>
-            <div class="kg-toggle-content"><p><span style="white-space: pre-wrap;">Head to </span><a href="#how-to-help" rel="noreferrer"><span style="white-space: pre-wrap;">the bottom of this article</span></a><span style="white-space: pre-wrap;"> for information on that, and thank you :&gt;</span></p></div>
-        </div><h3 id="dont-trust-dms">Don't trust DMs!</h3><p>Be suspicious of anyone who direct messages you, whether on WhatsApp, Instagram, Facebook, or any other communication platform. Are they really another student wanting to get to know you, or are they trying to get you buy something or click a link? If so, <strong>what motive could they have to do so?</strong> Often, the reason will be malicious.</p><h3 id="check-your-sources">Check your sources!</h3><p>Always make sure your sources of information are trustworthy. If you're reading an email, <strong>check the sender address</strong> - not just the sender name, as it can be spoofed to anything by anybody. If you're on a website, <strong>check the URL<em> </em></strong>and be wary of any site which isn't either the official university website (<a href="https://www.st-andrews.ac.uk/">https://www.st-andrews.ac.uk/</a>) or the student union website (<a href="https://www.yourunion.net/">https://www.yourunion.net/</a>). Be wary of <strong>ALL</strong> social media accounts, no matter how many followers they have or how trustworthy they seem - social media accounts are the easiest to fake.</p><div class="kg-card kg-callout-card kg-callout-card-yellow"><div class="kg-callout-emoji">⚠️</div><div class="kg-callout-text">As a rule of thumb,<b><strong style="white-space: pre-wrap;"> DO NOT</strong></b> buy tickets for freshers' events from anywhere except the official student union website (<a href="https://www.yourunion.net/events/union/">https://www.yourunion.net/events/union/</a>), and <b><strong style="white-space: pre-wrap;">DO NOT</strong></b> buy tickets from Fatsoma!</div></div><h3 id="calls-to-action-are-a-red-flag">Calls to action are a red flag!</h3><p>A call to action is where someone or something tries to get you to <strong>go do something</strong> such as click on a link, download a file, fill out a form, log in to a website, and so on. Often, these are presented with a <strong>sense of urgency</strong> as well - telling you that something is available for only a short time or that you have to rush for some other reason. Scammers use their urgency to cloud your judgement and make hasty decisions, usually to part you of your money or other sensitive information.</p><blockquote><strong>Don't let scammers weaponise your fear of missing out!</strong></blockquote><p>Freshers' events are nothing new, and the people running them are experienced with how popular they tend to be and accommodate accordingly. In fact, you can even buy tickets for many events right at the doorstep on the day!</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="__GHOST_URL__/content/images/2024/07/scam_urgency.png" class="kg-image" alt="Two screenshots of WhatsApp chats demonstrating scammers claiming their fake freshers' tickets &quot;sell out&quot; and that the &quot;price goes up&quot;" loading="lazy" width="1646" height="1104" srcset="__GHOST_URL__/content/images/size/w600/2024/07/scam_urgency.png 600w, __GHOST_URL__/content/images/size/w1000/2024/07/scam_urgency.png 1000w, __GHOST_URL__/content/images/size/w1600/2024/07/scam_urgency.png 1600w, __GHOST_URL__/content/images/2024/07/scam_urgency.png 1646w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Examples of claims that freshers' ticket scammers make to create a false sense of urgency.</span></figcaption></figure><hr><h2 id="ive-been-scammed">I've been scammed!</h2><p>If you suspect you have fallen for a scam already, don't panic, but <strong>take action immediately</strong>! The longer you wait, the trickier it could be to remediate.</p><p>If you've <strong>paid for something dodgy</strong> or <strong>entered payment credentials</strong> on an untrusted site, then <strong>contact your bank immediately</strong>. Let them know about what happened, and <strong>request a refund / chargeback</strong> if you've paid already. (If you don't know what a chargeback is, Visa has an <a href="https://www.visa.co.uk/how-you-pay-matters/chargeback-purchase-disputes.html" rel="noreferrer">article which explains the process</a>.) Just in case, <strong>keep an eye on your transactions</strong> and/or bank statements to make sure there's no dodgy activity.</p><p>If you've entered <strong>sensitive login details</strong> (e.g. your login details for St Andrews E-Vision / the accommodation portal) into <strong>any non-university website</strong> or sent them to <strong>anybody at all</strong>, then people could do Very Bad Stuff™️ with that.</p><p>Depending on what credentials were shared:</p><ul><li><strong>Change your password</strong>, if you can.</li><li><strong>Turn on 2-factor authentication (2FA)</strong>, if you can. This is getting <em>increasingly important</em> (in fact, the university actually forces you to use it for your Microsoft account!) and if you've been putting this off, now is the time.</li><li><strong>Contact the university</strong> if anything related to your university application or login has been compromised. There's a lot at stake otherwise!</li></ul><hr><h2 id="how-to-help">How to help</h2><p>Alright, you've read all of the above, done your homework, and have vaccinated yourself with the knowledge of how to avoid common scams. If you wish to go above and beyond though, you might be now asking yourself, "What can <em>I</em> do to combat this?"</p><p>Luckily, there are a few things you can do:</p><ul><li>If you've witnessed a scam directed at either yourself or others, <strong>report the scam</strong>. You can do so on the <a href="https://www.actionfraud.police.uk/" rel="noreferrer">Action Fraud website</a> or by calling <a href="tel:03001232040">0300 123 2040</a>.</li><li><strong>Raise awareness</strong> of common scams and <strong>share advice</strong> on avoiding them, where possible. Friends don't let friends fall for fraud! <strong>Share this page</strong> with others for extra brownie points.</li><li><strong>Contact communications channels</strong> such as official University or Student Union social media accounts, and try to convince them to push out more information on safety and scam avoidance.</li></ul><p>Raising awareness is the best solution - if everyone knows how to avoid scams, then there will be <em>nobody left to scam</em>. The unfortunate reality is that digital scams are incredibly hard to track down, so the best way to fight the scammers is indirectly.</p>
-
-If you're reading this, then it's very likely that you're an offer holder to St Andrews. If so, first off - congratulations! However, you're also a prime target for many scam organisations trying to part you of your money. The prospect of heading off to university and starting a whole new chapter of your life is exciting, but don't let FOMO cloud your judgement!
-
-Below is some advice for avoiding getting scammed, especially regarding the Fatsoma Freshers' Week ticket scam.
-
-Unmasking the Fatsoma scamA current student at St Andrews gives us some insight into how the common “Fatsoma” Freshers’ Week ticket scam operates.St Andrews SpaceOmar Raza
-
-
-
-But I already know all of this!
-
-
-
-
-
-
-
-
-If you haven't already, I very strongly recommend you read this article anyways, just in case.
-
-Don't let your arrogance get the best of you, even if you're normally very scam-aware! The people running many of these scams have been doing so for years across all of Scotland, and they're quite good at it.
-
-This year, I've already witnessed several dozen people fall for a freshers' tickets scam, which was run by the administrators of a WhatsApp community with over 200 new students in it. It's better to be safe than sorry!
-
-
-
-
-Help, I think I've already fallen for a scam!
-
-
-
-
-
-
-
-
-Head further down this article for advice on what to do next.
-
-
-
-
-What can I do to help combat this?
-
-
-
-
-
-
-
-
-Head to the bottom of this article for information on that, and thank you :>
-
-
-
-Don't trust DMs!
-
-Be suspicious of anyone who direct messages you, whether on WhatsApp, Instagram, Facebook, or any other communication platform. Are they really another student wanting to get to know you, or are they trying to get you buy something or click a link? If so, what motive could they have to do so? Often, the reason will be malicious.
-
-
-Check your sources!
-
-Always make sure your sources of information are trustworthy. If you're reading an email, check the sender address - not just the sender name, as it can be spoofed to anything by anybody. If you're on a website, check the URL and be wary of any site which isn't either the official university website (https://www.st-andrews.ac.uk/) or the student union website (https://www.yourunion.net/). Be wary of ALL social media accounts, no matter how many followers they have or how trustworthy they seem - social media accounts are the easiest to fake.
-
-⚠️As a rule of thumb, DO NOT buy tickets for freshers' events from anywhere except the official student union website (https://www.yourunion.net/events/union/), and DO NOT buy tickets from Fatsoma!
-
-
-Calls to action are a red flag!
-
-A call to action is where someone or something tries to get you to go do something such as click on a link, download a file, fill out a form, log in to a website, and so on. Often, these are presented with a sense of urgency as well - telling you that something is available for only a short time or that you have to rush for some other reason. Scammers use their urgency to cloud your judgement and make hasty decisions, usually to part you of your money or other sensitive information.
-
-Don't let scammers weaponise your fear of missing out!
-
-Freshers' events are nothing new, and the people running them are experienced with how popular they tend to be and accommodate accordingly. In fact, you can even buy tickets for many events right at the doorstep on the day!
-
-
-I've been scammed!
-
-If you suspect you have fallen for a scam already, don't panic, but take action immediately! The longer you wait, the trickier it could be to remediate.
-
-If you've paid for something dodgy or entered payment credentials on an untrusted site, then contact your bank immediately. Let them know about what happened, and request a refund / chargeback if you've paid already. (If you don't know what a chargeback is, Visa has an article which explains the process.) Just in case, keep an eye on your transactions and/or bank statements to make sure there's no dodgy activity.
-
-If you've entered sensitive login details (e.g. your login details for St Andrews E-Vision / the accommodation portal) into any non-university website or sent them to anybody at all, then people could do Very Bad Stuff™️ with that.
-
-Depending on what credentials were shared:
-
- * Change your password, if you can.
- * Turn on 2-factor authentication (2FA), if you can. This is getting increasingly important (in fact, the university actually forces you to use it for your Microsoft account!) and if you've been putting this off, now is the time.
- * Contact the university if anything related to your university application or login has been compromised. There's a lot at stake otherwise!
-
-
-How to help
-
-Alright, you've read all of the above, done your homework, and have vaccinated yourself with the knowledge of how to avoid common scams. If you wish to go above and beyond though, you might be now asking yourself, "What can I do to combat this?"
-
-Luckily, there are a few things you can do:
-
- * If you've witnessed a scam directed at either yourself or others, report the scam. You can do so on the Action Fraud website or by calling 0300 123 2040.
- * Raise awareness of common scams and share advice on avoiding them, where possible. Friends don't let friends fall for fraud! Share this page with others for extra brownie points.
- * Contact communications channels such as official University or Student Union social media accounts, and try to convince them to push out more information on safety and scam avoidance.
-
-Raising awareness is the best solution - if everyone knows how to avoid scams, then there will be nobody left to scam. The unfortunate reality is that digital scams are incredibly hard to track down, so the best way to fight the scammers is indirectly.
-
----
-
 Privacy Policy
 
 Information about how your data is collected, used and processed by St Andrews Space, and other such boring details.
@@ -314,15 +175,15 @@ You've got this! :>
 A glance in the rear-view mirror from a fourth year student, with some advice for all the first-year students starting their university journey.
 
 <p>Welcome to St Andrews! Speaking as a current fourth year, my time at St Andrews has been overall incredible, with just a few minor blips along the way. I’ve had opportunities I could have never imagined, met the most amazing people, and figured out who I am and what I want to do after graduation… well, mostly anyway. Nevertheless, there are many things I had to figure out for myself which would have caused me a lot less stress if an honours student had explained them to me in first year. Lucky for you, I am that honours student and I present to you: <strong>5 things I wish someone had told me in Freshers' week.</strong></p><h2 id="1-freshers-week-is-probably-not-the-best-week-of-your-life">1. Freshers' week is probably not the best week of your life</h2><p>Starting off strong, Freshers' week has a huge amount of hype. It’s the week that you are supposed to be truly independent for the first time, meet your best friends for life and make full use of that fresher’s band by going to every event possible. For me, while I didn’t hate it, Freshers' was far from my favourite week in first year. I spent the whole time surrounded by people that I barely knew, and I actually felt really lonely asking 50 people a day the classic questions of “what are you studying?’, “what halls are you staying at?” and “where are you from?”. Most of my closest friends I met well into semester 2 or in later years, so don’t stress if at the beginning of class you still haven’t met your people. You’ll probably be ill then anyway (Freshers' flu is no joke; I’ve had it every year!).</p><h2 id="2-do-not-worry-about-the-workload">2. Do not worry about the workload</h2><p>I was so stressed when I attended a lecture in week 1 and was told that you should be doing 10 hours per credit. It doesn’t take a genius to come to the conclusion that this means a bare minimum work week of 60 hours. I have to say that I genuinely don’t know anyone that does this much work in any year. In first year (albeit during COVID with next to nothing in person), I can’t say I ever did more than 15-20 hours a week. I did still think that everything I handed in was great and was fairly disappointed at my low to mid 2:1 marks. It’s important, however, to remember that the marks from first and second year don’t count for a reason. None of the lecturers expect you to understand everything immediately. My GPA increased a lot between second and third year because I took on feedback and realised where putting in the hours would translate to better grades, but this took me all of first and second year to figure out.</p><h2 id="3-the-jump-from-sub-honours-to-honours-is-manageable">3. The jump from sub-honours to honours is manageable</h2><p>I was also very worried about the jump from sub-honours to honours, having been told it was huge and I would have no time for anything other than work. Speaking as a Biology student, I’ve found that a roughly 9-5 Mon-Fri schedule is more than enough time to get everything done. The work isn’t significantly harder, I think it’s more just that it’s the point many people want to start doing well and so they increase their hours. If you’re used to doing 10 or 15 hours a week in sub-honours, then yeah, it’ll be a big increase but it’s nothing crazy. <strong>Time management is key.</strong></p><p>I’ve managed to compete and coach in 2 sports clubs as an honours student, while maintaining a first-class average, an active social life and a relationship. I’ve always found that if there’s something I want to do enough, I’ll find the time to do it.</p><h2 id="4-try-as-many-things-as-you-can">4. Try as many things as you can</h2><p>Speaking as someone that did 5 different sports clubs in first year, I cannot express enough how much I recommend trying new things throughout your time at university. Pretty much all of my closest friends were made through clubs and societies. Taking on various roles in committees is also a great way to get teamwork and leadership experience for CVs and interviews.</p><p>St Andrews has a huge number of societies and sports and you’ll probably never be in a place where it’s as easy to just turn up to something new. In my second year I went to a give-it-a-go session for a sport I’d never even heard of, and I’m now the British Universities Champion. It may be that as you reach third and fourth year you want to cut down the variety of things you’re involved in to invest more time in your favourites, but your favourite sport or hobby may well be something you’ve never even considered before.</p><h2 id="5-don%E2%80%99t-stress-about-housing">5. Don’t stress about housing</h2><p>Okay, I’m not going to lie, the housing situation in this town is dire. Landlords can get away with charging ridiculous prices and often the upkeep of properties falls by the wayside - because if you don’t want a mouldy, drafty house 10 minutes from town, someone else will. Despite this, try not to panic. I know a lot of people would advise you to form a group by Christmas and start house-hunting by January but it’s important not to rush into the first thing you see. Properties and rooms come up all the time throughout summer, and even a few days before the semester starts. Don’t fall into the trap of signing a £12,000 52-week contract at East Shore just because you haven’t found a private let by May. Most houses are inherited through connections you might have from graduating fourth years – again, sports and societies are good for meeting senior honours students.</p><p>Always remember that Guardbridge and Leuchars are only 10 minutes away on the extremely frequent bus (free for under 22-year-olds). If you live next to Morrisons, walking home would be almost double commuting time compared to if you just caught a bus to Guardbridge, and considering the rent would likely be almost half of a similar property in St Andrews, it’s not a bad shout to look further afield from the get-go.</p><p>Finally, try not to max out your budget on rent alone. As someone who lived in a house with next to no heating on in second year, it’s not worth saving money on energy only to not want to go home because it’s so cold and having a mental war about having to get out from under your 10 blankets every morning.</p><hr><p>I hope you have an amazing time at St Andrews. While there are a few negatives, the positives will massively outweigh them. The above tips are based solely on my friends’ and my experiences here so don’t take it as gospel, but I hope it helps in some way and busts some myths you may have heard about St Andrews.</p><hr><div class="kg-card kg-signup-card kg-width-regular " data-lexical-signup-form="" style="background-color: #000000; display: none;">
-            
+
             <div class="kg-signup-card-content">
-                
+
                 <div class="kg-signup-card-text kg-align-center">
                     <h2 class="kg-signup-card-heading" style="color: #FFFFFF;"><span style="white-space: pre-wrap;">Want more Freshers' advice?</span></h2>
                     <p class="kg-signup-card-subheading" style="color: #FFFFFF;"><span style="white-space: pre-wrap;">Sign up for St Andrews Space!</span></p>
-                    
+
         <form class="kg-signup-card-form" data-members-form="signup">
-            
+
             <div class="kg-signup-card-fields">
                 <input class="kg-signup-card-input" id="email" data-members-email="" type="email" required="true" placeholder="Your email">
                 <button class="kg-signup-card-button kg-style-accent" style="color: #FFFFFF;" type="submit">
@@ -351,7 +212,7 @@ A glance in the rear-view mirror from a fourth year student, with some advice fo
             </div>
             <div class="kg-signup-card-error" style="color: #FFFFFF;" data-members-error=""></div>
         </form>
-        
+
                     <p class="kg-signup-card-disclaimer" style="color: #FFFFFF;"><span style="white-space: pre-wrap;">No spam. Unsubscribe anytime.</span></p>
                 </div>
             </div>

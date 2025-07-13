@@ -1,7 +1,7 @@
 ---
 title: Unmasking the Fatsoma Scam
 slug: unmasking-the-fatsoma-scam
-publishDate: 4 Aug 2024
+publishDate: 17 Jul 2024
 description: A current student at St Andrews gives us some insight into how the common "Fatsoma" Freshers' Week ticket scam operates.
 ---
 
@@ -48,7 +48,7 @@ Any freshers tickets sold on a website called Fatsoma are fake even if the provi
 
 All events hosted at the student union and 601 will have their tickets advertised on the union website [here](https://www.yourunion.net/events/union/). Any other St Andrews events at places like the Vic and the Rule will have their tickets on Fixr but you can also normally buy at the door. Aura (Dundee club) tickets are on their own website but there's not much reason to go there - more on that later. You do not have to buy tickets in advance, especially since you don't yet know what your friends will be doing as you probably haven't met them yet. Most tickets don't come out until the end of August.
 
-[https://www.yourunion.net/events/union/](https://www.yourunion.net/events/union/)
+**[https://www.yourunion.net/events/union/](https://www.yourunion.net/events/union/)**
 
 ### What if I have bought a fake ticket?
 
