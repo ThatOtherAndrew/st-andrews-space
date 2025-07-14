@@ -21,3 +21,6 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# Ghost CMS backup data
+ghost_backup.sql
