@@ -1,6 +1,6 @@
 ---
 title: Unmasking the Fatsoma Scam
-slug: unmasking-the-fatsoma-scam
+slug: fatsoma-scam
 publishDate: 17 Jul 2024
 description: A current student at St Andrews gives us some insight into how the common "Fatsoma" Freshers' Week ticket scam operates.
 ---
