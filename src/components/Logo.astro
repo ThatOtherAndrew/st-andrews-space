@@ -1,16 +1,35 @@
 <style>
+  a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+
   img {
     display: block;
-    width: 75px;
+    position: relative;
+    bottom: 8px;
+    margin-right: 20px;
+  }
+
+  h2 {
+    margin: 0;
+  }
+
+  @media screen and (max-width: 800px) {
+    h2 {
+      display: none;
+    }
   }
 
   @media screen and (max-width: 520px) {
-    img {
+    a {
       display: none;
     }
   }
 </style>
 
 <a href="/">
-  <img alt="Blog Logo" src="/assets/logo.webp" width="75" height="50" />
-</a>
+  <img alt="Site logo" src="/favicon.png" width="50" height="50" />
+  <h2>St Andrews Space</h2>
+</div>
