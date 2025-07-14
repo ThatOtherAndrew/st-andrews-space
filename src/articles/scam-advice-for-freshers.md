@@ -1,5 +1,5 @@
 ---
-title: Scam Advice for Freshsers
+title: Scam Advice for Freshers
 slug: scam-advice
 publishDate: 17 Jul 2024
 description: Learn about common scams targeting new students, how to avoid falling for them, and what you can do to help.
