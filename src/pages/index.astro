@@ -11,6 +11,7 @@ const permalink = Astro.site.href;
     <div class="home-copy">
       <h1>{title}</h1>
       <p>{description}</p>
+      <a href="/2029" class="new-students-button">New student (class of 2029)? Click here!</a>
     </div>
 
     <div class="hero-image-container">
@@ -114,6 +115,25 @@ const permalink = Astro.site.href;
       padding-bottom: 2em;
       text-align: center;
     }
+  }
+
+  .new-students-button {
+    display: inline-block;
+    margin-top: 2em;
+    padding: .8em 1.4em;
+    background-color: var(--primary-color);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-family: var(--font-family-sans);
+    font-size: 1.4em;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 83, 155, 0.3);
+  }
+
+  .new-students-button:hover {
+    background-color: #003d7a;
   }
 
   .body-text {
