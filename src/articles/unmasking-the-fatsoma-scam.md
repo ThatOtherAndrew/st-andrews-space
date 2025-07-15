@@ -64,4 +64,4 @@ Then do your own research and you will quickly see that the tickets are indeed a
 
 ---
 
-As always, stay vigilant, and make sure to check out our [Scam Advice for Freshers](scam-advice-for-freshers) page for advice regarding how to keep yourself - and your finances - safe.
+As always, stay vigilant, and make sure to check out our [Scam Advice for Freshers](scam-advice) page for advice regarding how to keep yourself - and your finances - safe.

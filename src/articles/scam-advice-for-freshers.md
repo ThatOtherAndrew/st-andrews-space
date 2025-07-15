@@ -7,9 +7,9 @@ description: Learn about common scams targeting new students, how to avoid falli
 
 If you're reading this, then it's very likely that you're an offer holder to St Andrews. If so, first off - congratulations! However, you're also a prime target for many scam organisations trying to part you of your money. The prospect of heading off to university and starting a whole new chapter of your life is exciting, but **don't let FOMO cloud your judgement!**
 
-Below is some advice for avoiding getting scammed, especially regarding the [Fatsoma Freshers' Week ticket scam](unmasking-the-fatsoma-scam). For more information on the Fatsoma scam, check out this article written by a current student at St Andrews, and read about their experience with the scam last year:
+Below is some advice for avoiding getting scammed, especially regarding the [Fatsoma Freshers' Week ticket scam](fatsoma-scam). For more information on the Fatsoma scam, check out this article written by a current student at St Andrews, and read about their experience with the scam last year:
 
-**[Unmasking the Fatsoma Scam](unmasking-the-fatsoma-scam)**
+**[Unmasking the Fatsoma Scam](fatsoma-scam)**
 
 > ##### "But I already know all of this!"
 >
