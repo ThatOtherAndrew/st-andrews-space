@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import LinkEmbed from '../components/LinkEmbed.astro';
+
+const title = 'Resources';
+const description = 'Useful resources for current or incoming St Andrews students.';
+const permalink = `${Astro.site.href}resources`;
+---
+
+<BaseLayout title={title} description={description} permalink={permalink} current="resources">
+  <div class="container">
+    <h1>{title}</h1>
+    <LinkEmbed
+      href="https://revisionti.me"
+      title="Revision Time"
+      description="A wiki-style crowdsourced collection of study notes for St Andrews modules."
+      icon="https://revisionti.me/static/icon.png"
+    />
+  </div>
+</BaseLayout>

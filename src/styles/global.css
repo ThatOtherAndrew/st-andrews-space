@@ -1,5 +1,6 @@
 :root {
   --background-body: #eaeae5;
+  --background-panel: #e0e0d8;
   --text-main: #36393b;
   --text-secondary: #6b6f72;
   --primary-color: #00539b;
@@ -9,6 +10,7 @@
 
 :root.theme-dark {
   --background-body: #202122;
+  --background-panel: #28292a;
   --text-main: #fff;
   --text-secondary: #ccc;
 }

@@ -1,0 +1,176 @@
+---
+export interface Props {
+  href: string;
+  title: string;
+  description: string;
+  icon?: string;
+  domain?: string;
+}
+
+const { href, title, description, icon, domain } = Astro.props;
+
+const displayDomain = domain || new URL(href).hostname;
+---
+
+<a href={href} class="link-embed" target="_blank" rel="noopener noreferrer">
+  <div class="link-embed-content">
+    {icon && (
+      <div class="link-embed-icon">
+        <img src={icon} alt={`${title} icon`} />
+      </div>
+    )}
+    <div class="link-embed-text">
+      <h3 class="link-embed-title">{title}</h3>
+      <p class="link-embed-description">{description}</p>
+      <span class="link-embed-domain">{displayDomain}</span>
+    </div>
+  </div>
+  <div class="link-embed-arrow">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M7 17L17 7M17 7H7M17 7V17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+</a>
+
+<style>
+  .link-embed {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    border: 2px solid transparent;
+    border-radius: 12px;
+    background-color: var(--background-panel);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .link-embed::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, rgba(0, 83, 155, 0.05) 0%, rgba(0, 83, 155, 0.1) 100%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 0;
+  }
+
+  .link-embed:hover {
+    border-color: var(--primary-color);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 83, 155, 0.15);
+  }
+
+  .link-embed:hover::before {
+    opacity: 1;
+  }
+
+  .link-embed-content {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex: 1;
+    position: relative;
+    z-index: 1;
+  }
+
+  .link-embed-icon {
+    flex-shrink: 0;
+    width: 48px;
+    height: 48px;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .link-embed-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .link-embed-text {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .link-embed-title {
+    font-family: var(--font-family-sans);
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem 0;
+    color: var(--text-main);
+    line-height: 1.3;
+    transition: color 0.3s ease;
+  }
+
+  .link-embed-description {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0 0 0.5rem 0;
+    color: var(--text-secondary);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    transition: color 0.3s ease;
+  }
+
+  .link-embed-domain {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+    font-family: var(--font-family-sans);
+    transition: color 0.3s ease;
+  }
+
+  .link-embed-arrow {
+    flex-shrink: 0;
+    color: var(--text-secondary);
+    transition: all 0.3s ease;
+    position: relative;
+    z-index: 1;
+  }
+
+  .link-embed:hover .link-embed-arrow {
+    transform: translate(2px, -2px);
+  }
+
+  .link-embed:hover * {
+    color: var(--primary-color);
+  }
+
+  @media (max-width: 640px) {
+    .link-embed {
+      padding: 1rem;
+      margin: 1rem 0;
+    }
+
+    .link-embed-content {
+      gap: 0.75rem;
+    }
+
+    .link-embed-icon {
+      width: 40px;
+      height: 40px;
+    }
+
+    .link-embed-title {
+      font-size: 1.125rem;
+    }
+
+    .link-embed-description {
+      font-size: 0.925rem;
+    }
+  }
+</style>
