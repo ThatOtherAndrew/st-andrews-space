@@ -9,7 +9,8 @@ export interface Props {
 
 const { href, title, description, icon, domain } = Astro.props;
 
-const displayDomain = domain || new URL(href).hostname;
+const url = new URL(href);
+const displayDomain = domain || url.hostname.replace(/^www\./, '') + url.pathname.replace(/\/+$/, '');
 ---
 
 <a href={href} class="link-embed" target="_blank" rel="noopener noreferrer">

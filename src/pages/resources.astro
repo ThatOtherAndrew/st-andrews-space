@@ -10,11 +10,38 @@ const permalink = `${Astro.site.href}resources`;
 <BaseLayout title={title} description={description} permalink={permalink} current="resources">
   <div class="container">
     <h1>{title}</h1>
+
+    <h2>Official resources</h2>
+    <LinkEmbed
+      href="https://www.st-andrews.ac.uk/new-students/"
+      title="St Andrews New Students Portal"
+      description="A portal with links to pages for foundation, undergraduate and postgraduate students, plus the university Orientation resource."
+      icon="https://www.st-andrews.ac.uk/favicon.ico"
+    />
+    <LinkEmbed
+      href="https://www.yourunion.net/"
+      title="St Andrews Student Union"
+      description="The official website of the University of St Andrews Students' Association, which manages various societies and events."
+      icon="https://building.yourunion.net/assets/favicons/favicon-194x194.png"
+    />
+
+    <h2>Unofficial resources</h2>
     <LinkEmbed
       href="https://revisionti.me"
       title="Revision Time"
       description="A wiki-style crowdsourced collection of study notes for St Andrews modules."
       icon="https://revisionti.me/static/icon.png"
     />
+    <LinkEmbed
+      href="https://www.ustagradecalculator.com/calculator"
+      title="St Andrews Grade Calculator"
+      description="A simple tool to calculate your final grade classification, and save your grades for later."
+      icon="https://www.ustagradecalculator.com/favicon.ico"
+    />
+
+    <hr>
+    <p>
+      If you have any more resources to add, please do reach out to <a href=https://thatother.dev>me</a> (<b>as714</b>) or email <a href="mailto:hi@st-andrews.space">hi@st-andrews.space</a>, and I'll review it!
+    </p>
   </div>
 </BaseLayout>
