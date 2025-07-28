@@ -25,7 +25,6 @@ https://www.st-andrews.ac.uk/new-students/
 
 <br>
 
-<!--
 ## Students' Association Freshers' Week
 
 > Please note that a University of St Andrews account login is needed to access this resource.
@@ -33,7 +32,6 @@ https://www.st-andrews.ac.uk/new-students/
 https://www.yourunion.net/freshers/freshers-week/
 
 ⚠️ The above link takes you to the **official St Andrews Students' Union website**. There are a number of scams being perpetuated which attempt to sell you tickets from other platforms, especially **Fatsoma** - be **incredibly vigilant** against these! For more information and advice on this, check out the [Scam Advice for Freshers](scam-advice) page.
--->
 
 ## Orientation Guide App
 
