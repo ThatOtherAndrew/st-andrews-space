@@ -5,6 +5,7 @@ import remarkGfm from 'remark-gfm'
 import remarkSmartypants from 'remark-smartypants'
 import rehypeExternalLinks from 'rehype-external-links'
 import sitemap from '@astrojs/sitemap';
+import remarkAlert from 'remark-github-blockquote-alert'
 
 // https://astro.build/config
 export default defineConfig({
@@ -14,7 +15,7 @@ export default defineConfig({
     shikiConfig: {
       theme: 'one-dark-pro',
     },
-    remarkPlugins: [remarkGfm, remarkSmartypants],
+    remarkPlugins: [remarkGfm, remarkSmartypants, remarkAlert],
     rehypePlugins: [
       [
         rehypeExternalLinks,
