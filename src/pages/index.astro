@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { Image } from 'astro:assets';
 
 const title = 'St Andrews Space';
 const description = 'An unoffical MySaint by students, for students.';
@@ -15,7 +16,7 @@ const permalink = Astro.site.href;
     </div>
 
     <div class="hero-image-container">
-      <img class="hero-image" alt={`${title} logo`} src="/favicon.png" width="490" height="490">
+      <Image class="hero-image" alt={`${title} logo`} src="/favicon.png" width=490 height=490 loading="eager" />
     </div>
   </div>
 

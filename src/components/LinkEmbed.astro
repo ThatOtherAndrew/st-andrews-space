@@ -9,6 +9,7 @@ export interface Props {
 
 const { href, title, description, icon, domain } = Astro.props;
 
+import { Image } from 'astro:assets';
 const url = new URL(href);
 const displayDomain = domain || url.hostname.replace(/^www\./, '') + url.pathname.replace(/\/+$/, '');
 ---
@@ -17,7 +18,7 @@ const displayDomain = domain || url.hostname.replace(/^www\./, '') + url.pathnam
   <div class="link-embed-content">
     {icon && (
       <div class="link-embed-icon">
-        <img src={icon} alt={`${title} icon`} />
+        <Image src={icon} alt={`${title} icon`} width=48 height=48 />
       </div>
     )}
     <div class="link-embed-text">

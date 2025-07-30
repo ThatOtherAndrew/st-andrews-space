@@ -1,3 +1,12 @@
+---
+import { Image } from 'astro:assets';
+---
+
+<a href="/">
+  <Image src="/favicon.png" alt="Site logo" width=50 height=50 loading="eager" />
+  <h2>St Andrews Space</h2>
+</a>
+
 <style>
   a {
     display: flex;
@@ -28,8 +37,3 @@
     }
   }
 </style>
-
-<a href="/">
-  <img alt="Site logo" src="/favicon.png" width="50" height="50" />
-  <h2>St Andrews Space</h2>
-</div>
