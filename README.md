@@ -2,6 +2,8 @@
 
 > An unofficial [MySaint](https://mysaint.st-andrews.ac.uk/) by students, for students.
 
+![St Andrews Space homepage screenshot](assets/homepage-screenshot.png)
+
 ## What is this?
 
 This is the source code for the **[https://st-andrews.space](st-andrews.space) website** - a student hub for current or prospective students at the [University of St Andrews](https://www.st-andrews.ac.uk/).
