@@ -1,13 +1,19 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-import LinkEmbed from '../components/LinkEmbed.astro';
+import BaseLayout from "../layouts/BaseLayout.astro";
+import LinkEmbed from "../components/LinkEmbed.astro";
 
-const title = 'Resources';
-const description = 'Useful resources for current or incoming St Andrews students.';
+const title = "Resources";
+const description =
+  "Useful resources for current or incoming St Andrews students.";
 const permalink = `${Astro.site.href}resources`;
 ---
 
-<BaseLayout title={title} description={description} permalink={permalink} current="resources">
+<BaseLayout
+  title={title}
+  description={description}
+  permalink={permalink}
+  current="resources"
+>
   <div class="container">
     <h1>{title}</h1>
 
@@ -30,6 +36,12 @@ const permalink = `${Astro.site.href}resources`;
       description="A service for any student to find other fellow students to chat or go to events with - if you're feeling lonely, need support, or more."
       icon="https://building.yourunion.net/assets/favicons/favicon-194x194.png"
     />
+    <LinkEmbed
+      href="https://www.mcintoshhall.org/the-hall/guide"
+      title="Guide to McIntosh Hall"
+      description="A detailed 25-page guide to the McIntosh Hall student accommodation, with lots of tips and advice useful to all students."
+      icon="https://lh5.googleusercontent.com/RQ_gEXaTwGmC6I3ttIBQh_oq--FaS21zgkSJ6b2LqjqfANmjlvLZD6FHpcnKecvH-ye8M7ayAjoHl3Q3xo-5uAAc9k6JmNVK8qrK4QWrdt78ipmyTtXi1WJmjIWG9s7imhpxpc5Vt3rtooeknqXy1r7NZ2do8Am2U6KM"
+    />
 
     <h2>Unofficial resources</h2>
     <LinkEmbed
@@ -45,9 +57,13 @@ const permalink = `${Astro.site.href}resources`;
       icon="https://www.ustagradecalculator.com/favicon.ico"
     />
 
-    <hr>
+    <hr />
     <p>
-      If you have any more resources to add, please do reach out to <a href=https://thatother.dev>me</a> (<b>as714</b>) or email <a href="mailto:hi@st-andrews.space">hi@st-andrews.space</a>, and I'll review it!
+      If you have any more resources to add, please do reach out to <a
+        href="https://thatother.dev">me</a
+      > (<b>as714</b>) or email <a href="mailto:hi@st-andrews.space"
+        >hi@st-andrews.space</a
+      >, and I'll review it!
     </p>
   </div>
 </BaseLayout>
